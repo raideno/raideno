@@ -2,6 +2,6 @@ I'm Nadir. I'm a Junior Data Scientist and Self Taught Full Stack Developer, I l
 
 How to reach me:
 
-`Website` - [raideno.xyz](https://raideno.xyz)
+`Website` - [https://raideno.vercel.app/](https://raideno.vercel.app/)
 
 `Email` - [nadirkichou@hotmail.fr](mailto:nadirkichou@hotmail.fr)
